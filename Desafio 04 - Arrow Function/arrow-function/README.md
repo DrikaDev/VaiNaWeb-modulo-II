@@ -1,3 +1,11 @@
+# Arrow-Function <img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="100" align="right">
+
+Exercícios para treinar os estudos de React pelo curso do Vai Na Web<br>
+Objetivo:
+1. Criar um component de class <br>
+2. Criar uma arrow function que receba uma mensagem e exiba na tela<br>
+3. Criar uma arrow function que retorne o dobro de um número e exiba na tela
+##
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
