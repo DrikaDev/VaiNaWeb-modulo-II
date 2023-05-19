@@ -1,3 +1,15 @@
+# ODS Jacana <img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="100" align="right">
+
+Exercício para treinar os estudos de React do curso Vai Na Web.\
+Objetivo: 
+- Fazer um "clone" da ODS "Objetivos de Desenvolvimento Sustentável" com os cards abordando problemas reais das localidades onde moramos.
+
+Desenvolvido para Desktop e Mobile! ✨😊\
+👉 Clique <a href="https://odsnojacana.netlify.app/" target="_blank">aqui</a> para ver o site!
+
+![Desktop](https://user-images.githubusercontent.com/102387476/195228879-5022f276-d7aa-42a5-8edb-691da3ae1189.jpg)
+![Mobile](https://user-images.githubusercontent.com/102387476/195228888-3ea85bec-5bbf-4649-bdf8-50cc9345cc8b.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
