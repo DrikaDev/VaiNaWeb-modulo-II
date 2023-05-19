@@ -1,3 +1,10 @@
+# Carrinho de Mercado - Set State <img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="100" align="right">
+
+Exercício para treinar os estudos de React pelo curso do Vai Na Web.\
+Objetivo: desenvolver um contador que tenha as seguintes funcionalidades:\
+1 - O contador não pode chegar abaixo de 0\
+2 - O contador não pode chegar acima de 10
+##
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
