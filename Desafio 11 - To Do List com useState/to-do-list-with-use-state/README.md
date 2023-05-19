@@ -1,6 +1,6 @@
 # To Do List com useState <img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="100" align="right">
 
-Exercício para treinar os estudos iniciais de React pelo curso do Vai Na Web.\
+Exercício para treinar os estudos de React pelo curso do Vai Na Web.\
 Objetivo: desenvolvimento de uma To Do List com as seguintes funcionalidades: 
 
 1 - Hooks\
@@ -9,7 +9,8 @@ Objetivo: desenvolvimento de uma To Do List com as seguintes funcionalidades:
 4 - Não adicionar espaço em branco\
 5 - Função de deletar a tarefa
 
-💻 Feito para Desktop e Mobile 📱🤳🏼
+Desenvolvido para Desktop e Mobile! ✨😊\
+👉 Clique <a href="https://todolistcomsetstate.netlify.app/" target="_blank">aqui</a> para ver o site!
 
 ![Desktop](https://user-images.githubusercontent.com/102387476/188340541-6bd56a4c-5b2e-47eb-a0ac-eec1b2a905f7.jpg)
 ![Tablet](https://user-images.githubusercontent.com/102387476/188340545-894c002c-8926-4f36-8648-1336451367ba.jpg)
