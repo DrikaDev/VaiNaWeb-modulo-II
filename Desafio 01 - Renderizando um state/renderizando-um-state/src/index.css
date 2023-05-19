@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.aboutMe{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: blueviolet;
+  font-family: 'Arima', cursive;
+  margin-top: 20px;
+  line-height: 40px;
+}
+
+.aboutMe li{
+  list-style-type:circle;
+}
+
+.favoriteFruit{
+  border: 2px solid blueviolet;
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  width: 30rem;
+  border-radius: 50px;
+  box-shadow: 5px 5px 20px black;
+}
