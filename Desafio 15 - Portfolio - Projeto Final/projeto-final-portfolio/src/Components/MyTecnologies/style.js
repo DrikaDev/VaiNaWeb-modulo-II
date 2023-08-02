@@ -122,8 +122,8 @@ export const Tecnologies = styled.div`
 
     img{
         width: 7rem;
-        object-fit: cover;
-        margin: 3rem;
+        object-fit: contain;
+        margin: 2rem;
         animation: move 1.5s infinite alternate ease-in-out;
 
         &:nth-child(1){

@@ -51,25 +51,12 @@ export const Container = styled.section`
         width: 100%;
     }
 
-    h3{
-        color: wheat;
-        font-size: 1.5rem;
-        margin-top: 1rem;
-        text-align: center;
-        width: 100%;
-    }
-
     @media only screen and (min-width: 360px) and (max-width: 800px){
         flex-direction: column;
 
         h1{
             margin-top: 1rem;
             font-size: 2rem;
-        }
-
-        h3{
-            font-size: 1.2rem;
-            line-height: 2rem;
         }
     }
 `
@@ -82,6 +69,7 @@ export const Box_Projects = styled.section`
     }
 
     h2{
+        border-bottom: solid wheat;
         color: wheat;
         font-size: 1.3rem;
         margin-top: 1.5rem;
@@ -89,6 +77,18 @@ export const Box_Projects = styled.section`
         text-align: center;
         text-shadow: 0px 0px 10px wheat;
         width: 35rem;
+    }
+
+    h5{
+        font-size: 1rem;
+        line-height: 1.5rem;
+        text-align: center;
+        width: 35rem;
+        height: 5rem;
+        color: wheat;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     p{
@@ -112,6 +112,10 @@ export const Box_Projects = styled.section`
 
         h2{
             font-size: 1.4rem;
+            width: 24rem;
+        }
+
+        h5{
             width: 24rem;
         }
 

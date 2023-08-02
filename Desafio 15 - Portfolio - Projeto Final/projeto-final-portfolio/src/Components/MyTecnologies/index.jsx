@@ -5,6 +5,7 @@ import DesenhoDrikaTec from "../../Assets/Eunomicro.png"
 import Html from "../../Assets/html.png"
 import CSS from "../../Assets/css.png"
 import JS from "../../Assets/javascript.png"
+import Java from "../../Assets/java.png"
 import FotoReact from "../../Assets/react.png"
 import Git from "../../Assets/git.png"
 import * as S from "../MyTecnologies/style"
@@ -29,13 +30,14 @@ export default function MySkills() {
                         </figure>
                     </div>
 
-                    <p>O que aprendi ao longo desse ano de 2022:</p>
+                    <p>Tecnologias que tenho conhecimento:</p>
 
                     <S.Tecnologies>
                         <figure>
                             <img src={Html} alt="Logo Html" />
                             <img src={CSS} alt="Logo CSS" />
                             <img src={JS} alt="Logo JavaScript" />
+                            <img src={Java} alt="Logo Java" />
                             <img src={FotoReact} alt="Logo React" />
                             <img src={Git} alt="Logo Git" />
                         </figure>
