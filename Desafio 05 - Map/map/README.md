@@ -1,3 +1,11 @@
+# Map <img src="https://i.ibb.co/QpLTKSz/badge-M2-T2.png" alt="Badge Vai Na Web T2.1" width="100" align="right">
+
+Exercício para treinar os estudos de React pelo curso do Vai Na Web<br>
+Objetivo:
+01. Criar um component de class<br>
+02. Criar um array de objetos no STATE com pelo menos 6 objetos<br>
+03. Fazer um map do seu state e exiba os dados na tela
+##
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
